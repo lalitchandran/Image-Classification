@@ -87,23 +87,25 @@ def train_model(model, train_loader, num_epochs=3):
 ```
 ## OUTPUT
 ### Training Loss per Epoch
-![image](https://github.com/user-attachments/assets/a909520c-0ca6-437f-9716-11a5acde0936)
+![image](https://github.com/user-attachments/assets/cfbc12bc-66e1-4e94-a06f-6056164ab678)
+
 
 
 ### Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/b4246135-62bf-49ff-b88f-fcf500a66b47)
+![image](https://github.com/user-attachments/assets/203221d1-84bd-465d-b736-2e8e191640a8)
+
 
 
 ### Classification Report
+![image](https://github.com/user-attachments/assets/b6bdea02-898c-4636-be52-9228106d5ce0)
 
-![image](https://github.com/user-attachments/assets/6273b9fc-df9e-4426-a1af-ac4515a443ad)
 
 
 
 ### New Sample Data Prediction
+![image](https://github.com/user-attachments/assets/f7a0dfa1-ea21-4e78-a28b-44f7165c7e91)
 
-![image](https://github.com/user-attachments/assets/abe125bf-adae-4ff2-96b3-351499ab36d5)
 
 
 ## RESULT
